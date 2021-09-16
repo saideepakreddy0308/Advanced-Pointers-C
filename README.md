@@ -10,4 +10,3 @@ Load the workspace CPointers.workspace into CodeLite. Double-click a project nod
 
 - USERS OF OTHER IDES
 Load the C source code files from a selected directory in the archive (either under the \Codelite or \VisualStudio directories) into a project in your IDE. Alternatively create a project and simply copy and paste the code from files in the archive.
-
